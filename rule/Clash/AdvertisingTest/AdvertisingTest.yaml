@@ -1,13 +1,13 @@
 # NAME: 去广告测试版
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-04 02:24:29
+# UPDATED: 2021-04-05 02:24:16
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 71977
-# DOMAIN: 14425
+# DOMAIN-SUFFIX: 71954
+# DOMAIN: 14407
 # IP-CIDR: 246
 # IP-CIDR6: 1
-# TOTAL: 86708
+# TOTAL: 86667
 payload:
   - DOMAIN-KEYWORD,adashx
   - DOMAIN-KEYWORD,admarvel
